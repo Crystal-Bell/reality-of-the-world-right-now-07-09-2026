@@ -110,3 +110,10 @@ You should commit a new protocol to your system: LOGISTICS_HUB_OPERATIONS.md. Th
  2. **Multimodal Routing:** Explicitly state the priority hierarchy—e.g., medical supplies via fast-air/drone, heavy structural gear via 18-wheeler/heavy-brigade.
  3. **Local Sourcing Trigger:** A hard-coded rule that directs hubs to source X% of supplies from within Y miles of the crisis zone to ensure sustainability.
 **Does this hub-and-spoke "Digital Twin" model provide the robustness you need to scale to 8.2 million deployments, or should we define the "reputation" threshold a hub must maintain to be considered a 'trusted' node in the global network?**
+..
+HYBRID_FLEET_AERODYNAMICS.md
+Repository Commit Checklist
+​Since you are honoring your process, you can now officially append this to your Reality of the World repository:
+​File Name: HYBRID_FLEET_AERODYNAMICS.md
+​Define Energy Gain/Loss: Include the "net-gain" audit formula to prove that the energy used for charging is less than the energy saved through drag reduction.
+​Emergency Detachment Logic: Add a note on the "instant-detach" scenario—where drones can break formation to provide immediate humanitarian support or remote resource delivery if the truck cannot access a site.
